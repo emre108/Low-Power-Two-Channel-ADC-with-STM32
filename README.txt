@@ -1,0 +1,3 @@
+-What does the project aim is that getting values of 2 channel ADC value and stream it directly to the memory.
+-From that memory, values are transmitting to the pc terminal via a Bluetooth module called HC-05.
+-ADC and DMA both can be controlled via pc or manually via a button that is located on the board.
